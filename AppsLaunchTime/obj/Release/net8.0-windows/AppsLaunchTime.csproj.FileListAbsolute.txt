@@ -1,0 +1,17 @@
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\bin\Release\net8.0-windows\AppsLaunchTime.exe
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\bin\Release\net8.0-windows\AppsLaunchTime.deps.json
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\bin\Release\net8.0-windows\AppsLaunchTime.runtimeconfig.json
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\bin\Release\net8.0-windows\AppsLaunchTime.dll
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\bin\Release\net8.0-windows\AppsLaunchTime.pdb
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\AppsLaunchTime.Form1.resources
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\AppsLaunchTime.csproj.GenerateResource.cache
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\AppsLaunchTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\AppsLaunchTime.AssemblyInfoInputs.cache
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\AppsLaunchTime.AssemblyInfo.cs
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\AppsLaunchTime.csproj.CoreCompileInputs.cache
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\AppsLaunchTime.dll
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\refint\AppsLaunchTime.dll
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\AppsLaunchTime.pdb
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\AppsLaunchTime.genruntimeconfig.cache
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\ref\AppsLaunchTime.dll
+C:\temp\ipf-2.3.20300.4905-windows-sdk\AppsLaunchTime\obj\Release\net8.0-windows\AppsLaunchTime.sourcelink.json
