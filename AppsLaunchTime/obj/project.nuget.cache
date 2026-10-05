@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i/7abUfAXe4=",
+  "dgSpecHash": "AUONhRcmUTU=",
   "success": true,
-  "projectFilePath": "C:\\temp\\AppsLaunchTimev2\\AppsLaunchTime\\AppsLaunchTime.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\AN full\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
-    "C:\\Users\\AN full\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
-    "C:\\Users\\AN full\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
-    "C:\\Users\\AN full\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\temp\\AppsLaunchTimeChiaChia\\AppsLaunchTime\\AppsLaunchTime.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
